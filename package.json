@@ -15,6 +15,9 @@
   "devDependencies": {
     "@algolia/client-search": "^4.16.0",
     "@jridgewell/sourcemap-codec": "^1.4.14",
-    "vitepress": "1.0.0-alpha.63"
+    "@mermaid-js/mermaid-mindmap": "^9.3.0",
+    "mermaid": "^10.0.2",
+    "vitepress": "1.0.0-alpha.63",
+    "vitepress-plugin-mermaid": "^2.0.10"
   }
 }
